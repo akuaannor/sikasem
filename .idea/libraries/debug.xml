@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Holliday/app/build/intermediates/pre-dexed/debug/debug_28050dd50ac79ee73aa1faf8cc8e3e7fc054e5f2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Holliday/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_95b4ee785bcc8cea0bdd6937965637ccb67789d0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Holliday/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_af1aa7010647fe37aeee674d57a9252cdbdc13fc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Holliday/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_d37e7b755afea7de9f18bbb5fb3b1cd86cfaa9c5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Holliday/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_22b7b43545ef113b0be4a230550e7f87ab74ce44.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Holliday/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_68633b89e77016b2c0571a27a218009a944f683b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Holliday/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_3ffb0312d294b75afd5503cb6e138b16d2f8ac46.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Holliday/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_9aa8d97d3ab147a565a658f7856d9cda4b37849b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Holliday/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_2e9bc21c91ea070b1eb49febfd23bf3f72da5ac8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
